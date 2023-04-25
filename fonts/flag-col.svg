@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="23px" height="15px" viewBox="0 0 23 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="colombia-(2)">
+    <path d="M0 2.03535C0 2.98231 0.771174 3.75 1.72253 3.75L21.2775 3.75C22.2288 3.75 23 2.98235 23 2.03535L23 0L0 0L0 2.03535Z" transform="translate(0 11.25)" id="Path" fill="#FF4B55" stroke="none" />
+    <path d="M21.2775 0L1.72253 0C0.771174 0 0 0.767645 0 1.71465L0 7.5L23 7.5L23 1.71465C23 0.767645 22.2288 0 21.2775 0Z" id="Path" fill="#FFE15A" stroke="none" />
+    <path d="M0 0L23 0L23 3.74991L0 3.74991L0 0Z" transform="translate(0 7.5)" id="Rectangle" fill="#41479B" stroke="none" />
+  </g>
+</svg>

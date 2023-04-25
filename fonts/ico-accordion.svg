@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L18 0L18 11L0 11L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Group-55">
+    <g id="select-dropdown" transform="translate(2 5.5)">
+      <path d="M0 0L18 0L18 11L0 11L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+      <g clip-path="url(#mask_1)">
+        <path d="M0.3 10C0.5 10.2 0.7 10.3 0.9 10.3L0.9 10.3C1.1 10.3 1.4 10.2 1.5 10L9 2.4L16.4 10.1C16.7 10.4 17.4 10.4 17.7 10.1C18 9.7 18 9.1 17.7 8.7L9.6 0.4C9.5 0.1 9.2 0 9 0L9 0C8.8 0 8.5 0.1 8.4 0.3L0.3 8.6C-0.1 9.1 -0.1 9.6 0.3 10L0.3 10L0.3 10L0.3 10Z" transform="translate(0 0.2999878)" id="Path" fill="#009A44" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+    <path d="M0 0L22 0L22 22L0 22L0 0Z" id="Rectangle-2" fill="#FFFFFF" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

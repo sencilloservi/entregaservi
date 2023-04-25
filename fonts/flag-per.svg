@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="23px" height="16px" viewBox="0 0 23 16" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="peru">
+    <path d="M1.72253 0C0.771174 0 0 0.77315 0 1.72694L0 13.3807C0 14.3344 0.771174 15.1076 1.72253 15.1076L7.66668 15.1076L7.66668 0L1.72253 0Z" id="Path" fill="#FF4B55" stroke="none" />
+    <path d="M0 0L7.66682 0L7.66682 15.1077L0 15.1077L0 0Z" transform="translate(7.666992 0.00018310547)" id="Rectangle" fill="#F5F5F5" stroke="none" />
+    <path d="M5.94415 0L0 0L0 15.1076L5.94415 15.1076C6.89546 15.1076 7.66668 14.3344 7.66668 13.3806L7.66668 1.72694C7.66668 0.77315 6.89551 0 5.94415 0Z" transform="translate(15.333496 0)" id="Path" fill="#FF4B55" stroke="none" />
+  </g>
+</svg>

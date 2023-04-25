@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3px" height="11px" viewBox="0 0 3 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/more</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.435547 0 0 0 0 0.435547 0 0 0 0 0.435547 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header" transform="translate(-1312.000000, -13.000000)">
+            <g id="more" transform="translate(1312.000000, 13.000000)" filter="url(#filter-1)">
+                <g>
+                    <ellipse id="Oval" fill="#000000" fill-rule="nonzero" cx="1.04166667" cy="1.26527565" rx="1.04166667" ry="1.26527565"></ellipse>
+                    <ellipse id="Oval" fill="#000000" fill-rule="nonzero" cx="1.04166667" cy="5.12295191" rx="1.04166667" ry="1.26527565"></ellipse>
+                    <ellipse id="Oval" fill="#000000" fill-rule="nonzero" cx="1.04166667" cy="8.98062818" rx="1.04166667" ry="1.26527565"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
